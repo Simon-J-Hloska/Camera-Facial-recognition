@@ -150,10 +150,4 @@ Stiskněte **Q**
 Projekt používá:
 
 * downscaling framů (`cv_scaler`)
-* HOG detektor pro trénování
 * batch encoding
-
-Na Raspberry Pi:
-
-* ~5–15 FPS podle modelu
-
